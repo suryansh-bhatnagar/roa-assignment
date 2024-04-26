@@ -20,7 +20,6 @@ const Actions = () => {
       <div className='border border-stone-300 my-3'></div>
       <ActionCard icon={ <MdOutlineLocalShipping fontWeight={500} fontSize={20} />} title='Create Indents'/>
       </div>
-
     </div>
   )
 }

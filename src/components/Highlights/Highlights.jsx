@@ -5,7 +5,7 @@ import ScheduledActivities from './ScheduledActivities'
 
 const Highlights = () => {
   return (
-    <div className='w-1/5 h-full bg-white drop-shadow-md px-4 pt-6'>
+    <div className='w-1/5 h-full fixed right-0 bg-white drop-shadow-md px-4 pt-4'>
       <p className='font-medium'>Todays Highlights (14)</p>
       <p className='text-xs'>19 Mar 2024</p>
       <div className='flex mt-3 gap-3'>

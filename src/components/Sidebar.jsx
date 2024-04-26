@@ -7,7 +7,7 @@ import ParcelTracking from '../assets/ParcelTracking';
 
 const Sidebar = () => {
   return (
-    <div  style={{ width: '5%' }} className='pl-4 pt-6 w-5/20 h-full bg-white text-2xl text-gray-500 drop-shadow-md'>
+    <div  style={{ width: '5%' }} className='fixed pl-4 pt-6 w-5/20 h-full bg-white text-2xl text-gray-500 drop-shadow-md'>
         <Logo/>
         <div className='mt-7 flex flex-col gap-5 pl-1'>
         <MdDashboard/>

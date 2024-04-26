@@ -6,7 +6,7 @@ import Alerts from './Alerts'
 
 const Body = () => {
   return (
-    <div className='w-3/4 h-full bg-slate-50 px-5 pt-4'>
+    <div style={{marginLeft:'5%'}} className='w-3/4 h-full bg-slate-50 px-5 pt-4'>
       <Header/>
       <Charts/>
       <Actions/>
