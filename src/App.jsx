@@ -5,7 +5,7 @@ import Sidebar from './components/Sidebar';
 
 function App() {
   return (
-    <div className='w-full h-screen flex bg-slate-50 py-6 px-4'>
+    <div className='w-full h-screen flex bg-slate-50 pt-6'>
       <Sidebar />
       <Body />
       <Highlights />
